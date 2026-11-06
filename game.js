@@ -134,7 +134,7 @@
   // no consent banner. Set your site code (the part before .goatcounter.com)
   // to switch it on; left empty, nothing is loaded or sent. It is also off
   // with ?debug or ?tip in the address, and GoatCounter ignores localhost.
-  const GOATCOUNTER_CODE = ""; // set this to a new GoatCounter site code for Gobble Grab
+  const GOATCOUNTER_CODE = "gobblegrab";
   const analyticsOn = !!GOATCOUNTER_CODE && !/[?&](debug|tip)\b/.test(window.location.search);
   const pendingEvents = [];
 

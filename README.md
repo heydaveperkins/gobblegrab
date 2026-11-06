@@ -6,7 +6,7 @@
 
 <p align="center">
   A Thanksgiving claw machine game for your browser.<br>
-  <strong><a href="https://heydaveperkins.github.io/gobble-grab-claw/">Play it here</a></strong>
+  <strong><a href="https://heydaveperkins.github.io/gobblegrab/">Play it here</a></strong>
 </p>
 
 ![Gobble Grab: a wooden claw machine full of Thanksgiving plushies, with the timer and arrow buttons on the left and the score and DROP button on the right](screenshot.png)
@@ -33,7 +33,7 @@ screen**:
 
 ### iPhone and iPad
 
-1. Open **[heydaveperkins.github.io/gobble-grab-claw](https://heydaveperkins.github.io/gobble-grab-claw/)**
+1. Open **[heydaveperkins.github.io/gobblegrab](https://heydaveperkins.github.io/gobblegrab/)**
    in **Safari**.
 2. Tap the **Share** button: the square with an arrow pointing up out of it.
    - On iPhone it's in the toolbar at the bottom of the screen, or at the top
